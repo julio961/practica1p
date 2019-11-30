@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Práctica 2</string>
+    <string name="reg_usuario">Registrar</string>
+    <string name="con_usuario">Consultar</string>
+    <string name="env_par">Eviar Parámetro</string>
+    <string name="id">ingresar id</string>
+    <string name="nom">Ingresar Nombre</string>
+    <string name="tlf">Ingresar teléfono</string>
+    <string name="usu">Usuario:</string>
+    <string name="telefono">Teléfono:</string>
+    <string name="ing">Ingresar número a enviar:</string>
+    <string name="ing_par">Ingresar parámetro a enviar:</string>
+</resources>
